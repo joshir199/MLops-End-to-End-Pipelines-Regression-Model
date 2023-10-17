@@ -19,3 +19,27 @@ It uses MLFlowClient() to run experiments within context of mlflow and stores de
 ********************************************
 # Evidently AI for Model validation, Data Validation and Model performance analysis while running experiments:
 
+Monitoring is very important aspects of ML lifecycle management. When dealing with data and models which is variable in nature, continuous monitoring system is a must.
+Evidently AI provides very efficient monitoring farmework which can be included in ML pipeline. 
+
+It will provide the monitoring in form of Comparing models, data shift, model shift, prediction shift and model performance all together in a ML production system.
+
+Reports of the monitoring are generated and can be saved in various file formats and also in interactive UI for further analysis.
+
+![](https://github.com/joshir199/MLops-Using-MLFlow-End-to-End-Pipelines-Regression-Model/blob/main/metrics%20comparison%20for%20different%20datas.png)
+
+---------------> Model comaprison with data at different time intervals 
+
+![](https://github.com/joshir199/MLops-Using-MLFlow-End-to-End-Pipelines-Regression-Model/blob/main/Data%20drift%20analysis.png)
+
+---------------->  Data drift analysis based on features
+
+
+For more details understanding and use cases, ![read here](https://docs.evidentlyai.com/user-guide/monitoring/monitoring_overview).
+
+
+************************************************
+# MLFlow Models 
+
+
+
